@@ -62,7 +62,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -148,18 +147,22 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
+### Tami Hughes
+* Twitter: [@Tamsaucce](https://twitter.com/Tamsaucce)
+* LinkedIn: [@tami-hughes-58074a72](https://www.linkedin.com/in/tami-hughes-58074a72)
+* Email: thughes78@gmail.com
+* Portfolio: [https://www.tamsauce.com/](https://www.tamsauce.com/)
+* Blog Post About This Project: [Placeholder](Placeholder)
 
-Tami Hughes - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-Katie Marie - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+### Katie Marie
+* Twitter: [@KHtmlscssjs](https://twitter.com/KHtmlcssjs)
+* LinkedIn: [@katiemariedev](https://www.linkedin.com/in/katiemariedev)
+* Email: katiemariedev@gmail.com
+* Portfolio: [https://www.katiemarie.dev/](https://www.katiemarie.dev/)
+* Blog Post About This Project: [Placeholder](Placeholder)
 
 
 <!-- ACKNOWLEDGEMENTS -->
