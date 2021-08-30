@@ -1,49 +1,15 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <div>
+    <img align="center" src="https://user-images.githubusercontent.com/33885541/131379543-aef0b926-bf16-46b4-9c26-72efacecb1ec.png" width="1200" height="600"/>
+</div>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Mint Scream!</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Our contribution to the MintBean hiring Hackathon, August 2021
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://mintscream.netlify.app/">Play the game, if you dare!</a>
   </p>
 </p>
 
@@ -171,7 +137,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [Free 2d Game Assets by Bevouliin](https://bevouliin.com/category/free_game_asset/)
 * [Free Parallax Background Images](https://free-game-assets.itch.io/parallax-halloween-2d-game-backgrounds)
 * [Spooky Google Fonts](https://fonts.googleblog.com/2011/10/scary-fonts-for-halloween.html)
-* [Frank's Laboratory Youtube](https://www.youtube.com/channel/UCEqc149iR-ALYkGM6TG-7vQ)
+* [Frank's Laboratory](https://www.youtube.com/channel/UCEqc149iR-ALYkGM6TG-7vQ)
 
 
 
