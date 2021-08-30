@@ -95,45 +95,24 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Mint Scream! Is built from scratch using HTML5 Canvas, CSS, and Vanilla Javascript.  No libraries.
 * [HTML5 Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 * [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Javascript](https://javascript.info/)
-* No Libraries!
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+As this project is all vanilla, the setup steps are super simple.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
+1. Fork the Project
+2. Open it in your browser
+3. That's it! Nothing to download or install.
+   
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -174,27 +153,22 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Tami Hughes - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+Katie Marie - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
+* [MintBean Developer Community](https://mintbean.io/meets/d51762d5-b874-4cc1-a420-ff316600192f)
+* [Free 2d Game Assets by Bevouliin](https://bevouliin.com/category/free_game_asset/)
+* [Free Parallax Background Images](https://free-game-assets.itch.io/parallax-halloween-2d-game-backgrounds)
+* [Spooky Google Fonts](https://fonts.googleblog.com/2011/10/scary-fonts-for-halloween.html)
+* [Frank's Laboratory Youtube](https://www.youtube.com/channel/UCEqc149iR-ALYkGM6TG-7vQ)
 
 
 
